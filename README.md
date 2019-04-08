@@ -5,4 +5,4 @@ Branched Multi-Task Networks: Deciding What Layers To Share -
 
 Code and models to reproduce the results from our paper will be made available after acceptance. 
 
-Link to paper on ArXiv: 
+Link to paper on ArXiv: https://arxiv.org/abs/1904.02920
